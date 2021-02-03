@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 tHIS IS ME
 
-hello there
+
+world hello
+>>>>>>> dev1
